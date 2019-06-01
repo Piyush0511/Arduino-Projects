@@ -1,2 +1,2 @@
 # Arduino-Projects
-You will find variour arduino related projects here.
+You will find various arduino related projects here.
